@@ -1,74 +1,59 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Dipan Mandal</h1>
+<h3 align="center">🚀 Aspiring Developer | 🤖 Tech Explorer | 🌱 Lifelong Learner</h3>
 
-# 👋 Hey there! I'm Dipan Mandal  
-🚀 Full-Stack Web Developer | 🎯 Problem Solver | 💡 Django Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=Dip607&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+💻+code+for+fun+and+growth;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🎯 About Me
+### 🧠 About Me
 
-```js
-const Dipan = {
-  pronouns: "He/Him",
-  location: "MNNIT Allahabad, India",
-  education: "B.Tech in Mechanical Engineering",
-  role: "Full-Stack Developer",
+- 🔭 I’m currently working on **AI-based Projects & Web Apps**
+- 🌱 I’m learning **Django, Machine Learning, and DevOps**
+- 👯 I’m looking to collaborate on **Open Source, Hackathons, and Research**
+- 💬 Ask me about **Python, AI/ML, Django, Web Development**
+- 📫 Reach me: **[dipan_0202 (Instagram)](https://instagram.com/dipan_0202)**  
+- 🧰 Fun Fact: I turn ☕ into code!
 
-  currentFocus: [
-    "UI/UX Design",
-    "Django Development",
-    "Data Structures & Algorithms",
-    "AI/ML Integration",
-    "Open Source Contributions"
-  ],
+---
 
-  askMeAbout: [
-    "Web Development", "JavaScript/TypeScript",
-    "React/Next.js", "Node.js", "MongoDB", "Django"
-  ],
+### 🛠️ Languages & Tools
 
-  funFact: "I build digital solutions that are fast, functional, and user-friendly."
-};
-💼 Leadership & Contributions
-🔧 Designer – Hack36 Platform
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-📊 Creator – CodeForum (Full-Stack AI-Powered Website)
+---
 
-🛠️ Technology Arsenal
-💻 Languages
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> </p>
-🚀 Frontend Development
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> </p>
-⚙️ Backend & Database
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40"/> </p>
-🤖 AI / ML
-<p> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/> </p>
-🎨 Tools & Platforms
-<p> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/> </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dip607&show_icons=true&theme=dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip607&layout=compact&theme=dark" alt="Top Languages" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=dark" alt="GitHub Streak" /> </p>
-🌓 You can toggle GitHub theme via your GitHub UI settings – these stats adapt automatically to your preferred theme.
+### 📈 GitHub Stats
 
-🚀 Featured Projects
-🔹 CodeForum – AI-Paired Community Platform
-An AI-powered platform for student-professor interaction.
-Tech: Django, HTML, CSS, DjangoORM, OpenRouter AI
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dip607&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=tokyonight" />
+</p>
 
-🔹 AI-CANVAS – Full-Stack AI Design Generator
-A generative AI site for visual content creation.
-Tech: Django, HTML, CSS, Python, Gemini AI
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip607&layout=compact&theme=tokyonight" />
+</p>
 
-📈 Coding Journey
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=dark" /> </p>
-🌐 Let's Connect!
-<p align="center"> <a href="https://linkedin.com/in/dipan-mandal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /></a> <a href="https://instagram.com/dipan_0202" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" /></a> <a href="mailto:dipanmandal111@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" /></a> </p>
-<div align="center">
-✨ "First, solve the problem. Then, write the code." – John Johnson ✨
-⭐ If you like my work, consider giving my repositories a star! ⭐
-🕒 Last updated: August 2, 2025
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dip607&show_icons=true&theme=dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip607&layout=compact&theme=dark" alt="Top Languages" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=dark" alt="GitHub Streak" /> </p>
-</div> ```
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Dip607"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/dipan_0202"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:dipanmandal2021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Optional visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dip607&label=Profile+Views&color=blue&style=flat" alt="Dip607" />
+</p>
