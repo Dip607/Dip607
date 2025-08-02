@@ -69,5 +69,6 @@ Tech: Django, HTML, CSS, Python, Gemini AI
 ✨ "First, solve the problem. Then, write the code." – John Johnson ✨
 ⭐ If you like my work, consider giving my repositories a star! ⭐
 🕒 Last updated: August 2, 2025
-
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dip607&show_icons=true&theme=dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip607&layout=compact&theme=dark" alt="Top Languages" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=dark" alt="GitHub Streak" /> </p>
 </div> ```
