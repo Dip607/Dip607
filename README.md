@@ -5,14 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+💻+code+for+fun+and+growth;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
----
+<h2>🎯 <u>About Me</u></h2>
 
-### 🧠 About Me
+- 📍 **Location:** India 🇮🇳  
+- 🎓 **Education:** B.Tech in Mechanical Engineering (Ongoing)  
+- 👨‍💻 **Role:** Aspiring Software Developer
 
-- 🔭 I’m currently working on **AI-based Projects & Web Apps**
-- 🌱 I’m learning **Django, Machine Learning, and DevOps**
-- 👯 I’m looking to collaborate on **Open Source, Hackathons, and Research**
-- 💬 Ask me about **Python, AI/ML, Django, Web Development**
+**🧠 Current Focus**
+- 🔧 Web Development
+- ⚛️ Django & React
+- 📐 DSA (Data Structures & Algorithms)
+- 🤖 Machine Learning
+- 🌍 Open Source
+- 📈 Git, GitHub & Deployment  
+- 🧠 Competitive Programming
 - 📫 Reach me: **[dipan_0202 (Instagram)](https://instagram.com/dipan_0202)**  
 - 🧰 Fun Fact: I turn ☕ into code!
 
