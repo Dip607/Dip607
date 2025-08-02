@@ -8,12 +8,12 @@
 const Dipan = {
     pronouns: "He/Him",
     location: "MNNIT Allahabad, India",
-    education: "B.Tech in Mecchanical Engineering",
+    education: "B.Tech in Mechanical Engineering",
     role: "Full-Stack Developer",
     
     currentFocus: [
-        "UI/UX Designer",
-        "Django Developer", 
+        "UI/UX Design",
+        "Django Development", 
         "Data Structures & Algorithms",
         "AI/ML Integration",
         "Open Source Contributions"
@@ -21,20 +21,16 @@ const Dipan = {
     
     askMeAbout: [
         "Web Development", "JavaScript/TypeScript", 
-        "React/Next.js", "Node.js", "MongoDB",
+        "React/Next.js", "Node.js", "MongoDB", "Django"
     ],
     
     funFact: "I build digital solutions that are fast, functional, and user-friendly."
 };
 
-
-
-</div>
-
 💼 Leadership & Contributions
 🔧 Designer - Hack36 Platform
 
-📊 Creator - Codeforum(Full Stck Ai-Powered Website)
+📊 Creator - Codeforum (Full-Stack AI-Powered Website)
 
 🛠️ Technology Arsenal
 💻 Languages
@@ -78,14 +74,13 @@ const Dipan = {
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>>
+</p>
 
 📊 GitHub Analytics
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDip607%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDip607%26show_icons%3Dtrue%26theme%3Dradical" alt="Dipan's GitHub Stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDip607%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
 </p>
-Note: Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
 
 🚀 Featured Projects
 Project
@@ -94,17 +89,17 @@ Description
 
 Technologies
 
- CodeForum - AI Paired Platform
+CodeForum - AI Paired Platform
 
-AI-powered AI-STUDEND-PROFEESORS.
+An AI-powered platform for students and professors.
 
-Django,HTML,CSS, DjangoORM,OPENROUTER AI
+Django, HTML, CSS, DjangoORM, OPENROUTER AI
 
- AI-CANVAS
+AI-CANVAS
 
-Full-stack AI-design generation website.
+A full-stack AI design generation website.
 
-Django,HTML,CSS,PYTHON Gemini AI
+Django, HTML, CSS, Python, Gemini AI
 
 📈 Coding Journey
 <p align="center">
@@ -115,7 +110,7 @@ Django,HTML,CSS,PYTHON Gemini AI
 <p align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/dipan-mandal" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipan-mandal" height="30" width="40" /></a>
 <a href="https://www.google.com/search?q=https://instagram.com/dipan_0202" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipan_0202" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="dipanmandal111@gmail.com" height="30" width="40" /></a>
+<a href="mailto:dipanmandal111@gmail.com"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="dipanmandal111@gmail.com" height="30" width="40" /></a>
 </p>
 
 <div align="center">
@@ -123,4 +118,6 @@ Django,HTML,CSS,PYTHON Gemini AI
 ✨ "First, solve the problem. Then, write the code." - John Johnson ✨
 
 ⭐ If you like my work, consider giving my repositories a star! ⭐
+Last updated: August 2, 2025
+
 </div>
