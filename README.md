@@ -3,51 +3,58 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=NIT+Student+🎓;Full+Stack+Django+Developer;Mechanical+Engineer+⚙️;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=MNNIT+Allahabad+Student+🎓;Full+Stack+Django+Developer;Mechanical+Engineer+⚙️;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dip607&label=Profile+Views&color=42A5F5&style=flat-square" alt="Dip607" />
+<img src="https://komarev.com/ghpvc/?username=Dip607&label=Profile+Views&color=42A5F5&style=flat-square" alt="Dip607" />
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
 ---
 
 ### ⚡ About Me
 
-I am a **Mechanical Engineering** student at **Motilal Nehru National Institute of Technology (MNNIT)**. I specialize in bridging the gap between hardware logic and software scalability, with a heavy focus on building robust web applications.
+I am a **Mechanical Engineering** student at **Motilal Nehru National Institute of Technology (MNNIT)**. I specialize in bridging the gap between hardware logic and software scalability.
 
-- 🔭 **Focusing on:** Advanced **Django & React** integration.
-- 🎓 **Education:** B.Tech at **MNNIT Allahabad**.
-- 🧪 **Researching:** Data Structures, Algorithms, and ML architectures.
-- 💬 **Ask me about:** Python development, Git workflows, or Mechanical Design.
+- 🎓 **Education:** B.Tech at **MNNIT Allahabad**
+- 🔭 **Focusing on:** Advanced **Django & React** integration
+- 🧪 **Researching:** Data Structures, Algorithms, and ML architectures
+- 💬 **Ask me about:** Python development, Git workflows, or Mechanical Design
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,git,github,vscode,pycharm,postman,figma" />
+</p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
+| **Stats & Reach** | **Most Used Languages** |
 | :---: | :---: |
-| <img width="400" src="https://github-readme-stats.vercel.app/api?username=Dip607&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> | <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip607&layout=compact&theme=tokyonight" /> |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+| <img src="https://github-readme-stats.vercel.app/api?username=Dip607&show_icons=true&theme=tokyonight" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip607&layout=compact&theme=tokyonight" width="350px" /> |
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip607&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+#### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-white-canary.vercel.app/api?user=Dip607&color=42A5F5" alt="Snake" />
+</p>
 
 ---
 
@@ -60,5 +67,5 @@ I am a **Mechanical Engineering** student at **Motilal Nehru National Institute 
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
